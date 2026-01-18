@@ -1,5 +1,4 @@
-Hello Created By Abdalluh Essam 🇪🇬🇪🇬🇪
-abdallhesam100@gmail.com
+
 
 
 
@@ -49,4 +48,3 @@ flutter run
 ✅ Built with ❤️ using the Clean Architecture Generator
 
 
-Hello Created By Abdalluh Essam 🇪🇬🇪🇬🇪
